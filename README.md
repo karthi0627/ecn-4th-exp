@@ -35,13 +35,13 @@ It is the look-back resistance across the load terminals when all the sources ar
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
 
-To measure IL![aa1b239d-bb0b-44b3-b302-ed8d9431da7a](https://github.com/user-attachments/assets/7ba1081e-f175-4ee5-aa70-08f43a633386)
+To measure IL!
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/afd6aa4d-8167-456c-8e4f-1d7fdebfa304" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/99b468ac-adde-4298-8c4c-780b9bf443bd" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/027c6f4f-0788-4fdc-bc73-344b1fd8abf3" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/e0ee9ff1-ed60-4c0b-a4c4-5cab2404c516" />
 
 
-![496c747c-512d-4fd0-af5b-4c365f1d674f](https://github.com/user-attachments/assets/5ef091ef-751a-4f43-a097-7c05e49dcb4d)
-
-![6b2e04f7-7ed7-4133-80a6-d8631989375d](https://github.com/user-attachments/assets/e53de046-444a-4ba8-9b3f-a2b6794e2fba)
-![c76d164f-9ab8-41ec-b344-80cbede4ad26](https://github.com/user-attachments/assets/800b9829-4778-4709-97fb-52ead4c50c0f)
 
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
